@@ -8,8 +8,7 @@ GameZone, a fictional company, was founded in 2018 and specializes in selling re
 - Gamezone averages $2.8M annual sales with an average of 10,000 orders per year.
 - Sales surge by 66.12% in 2020, jumping from $1.5M in 2019 to $4M in 2020. The trend continue to until February 2021.
 - Annual AOV increases from 82.44% in 2019 to 107.46% in 2020 and steadily inceases at 109.53% for the 1st quarter of 2021 when COVID-19 quarantine eases and people are starting to go out of their homes.
-**[insert image for Sales Trend]**
-
+!([.Annual Sales, Order, AOV.png](https://github.com/LeeUNel/GameZome-Analysis/blob/main/Annual%20Sales,%20Order,%20AOV.png?raw=true))
  ### Sales by Geographical Location,  
 - Majority of the customers are from Northern America specifically the US which holds 57.12% and 56.39% of the Total Sales and Orders, respectively.
 - 
