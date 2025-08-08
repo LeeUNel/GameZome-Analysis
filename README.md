@@ -28,23 +28,23 @@ This analysis of 21800 orders of GameZone from 2019 to Feb 2012 revealing key tr
 
 ## Recommendations 
 ### Product Mix Optimization
-Nintendo Switch drives 47.58% of orders but only 27.03% of sales, meaning it’s a high-volume, lower-value driver. PS5 Bundle, on the other hand, drives 25.90% of sales with only 4.48% of orders, meaning it’s a high-value, low-volume driver. Similarly, JBL Quantum 100 Gaming Headset drives 19.68% of the total orders but has only 1.57% share on the sales. 
-- Recommendation:
+Nintendo Switch drives 47.58% of orders but only 27.03% of sales, meaning it’s a **high-volume**, **lower-value driver**. PS5 Bundle, on the other hand, drives 25.90% of sales with only 4.48% of orders, meaning it’s a **high-value**, **low-volume driver**. Similarly, JBL Quantum 100 Gaming Headset drives 19.68% of the total orders but has only 1.57% share on the sales. 
+- **Recommendation**:
   - Introduce premium bundles (e.g., Switch + accessories or games) to lift AOV from high-order customers.
   - Increase stock availability or offer financing/payment plans to convert more customers, since high price point may be limiting order volume.
   - Use PS5 buyers’ higher spending habits to promote premium Switch bundles, gaming laptops, or high-margin accessories.
 ### Sales Channel Focus 
 Direct sales dominate revenue at 84.69%, followed by email (8.96%), affiliates (3.60%), and mobile app contributions (2.51%).
-- Recommendation:
+- **Recommendation**:
   - Given email already has traction, invest in segmented campaigns (e.g., product-specific, loyalty rewards) to increase repeat purchases.
   - Recruit more influencers and tech reviewers in the gaming niche to boost affiliate reach, especially in regions outside North America.
   - Enhance app experience with app-exclusive deals, early access to refurbished inventory, and gamified loyalty points to encourage downloads and usage.
 ### Geographical Diversification
-Over 57% of the sales come from the US (North America), this heave reliance on a single region increases risks and limits growth. 
-- Recommendation:
+Over 57% of the sales come from the US (North America), this heave reliance on a **single region increases risks and limits growth**. 
+- **Recommendation**:
   - Target growing gaming markets such as Western Europe, Southeast Asia, and Latin America through localized marketing campaigns and regional inventory hubs.
   -  Partner with regional e-commerce platforms to enter new markets faster.
  
 # Assumptions and Caveats
-- Order Date Error: Logic suggests that the order date should precede the shipping date. However, 2,005 rows show shipping dates earlier than their corresponding order dates—an anomaly that requires further investigation with the relevant teams.
-- Missing Country Code: 37 rows have missing country codes, preventing accurate mapping to their respective regions. If the number of missing entries increases as the dataset grows, it could skew results and potentially lead to biased conclusions.
+- **Order Date Error**: Logic suggests that the order date should precede the shipping date. However, 2,005 rows show shipping dates earlier than their corresponding order dates—an anomaly that requires further investigation with the relevant teams.
+- **Missing Country Code**: 37 rows have missing country codes, preventing accurate mapping to their respective regions. If the number of missing entries increases as the dataset grows, it could skew results and potentially lead to biased conclusions.
