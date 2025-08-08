@@ -21,7 +21,7 @@ This analysis of 21800 orders of GameZone from 2019 to Feb 2012 revealing key tr
 - Direct sales accounted for 84.69% ($5.2M) of the GameZone total sales. While email and affiliate marketing  channels gather 8.96% ($611K) and 3.60% ($220K) of the total sales, respectively. 
 - The website generates 97.49% of the sales or $6M of the total sales, next is the mobile app which only generates 2.51% or $154K of the total sales.
   
-![image](![image](https://github.com/LeeUNel/GameZome-Analysis/blob/141b95b4db17673c1c052d0e49135d596b9c4558/Geographic%20Location%20Map.png))
+![image](https://github.com/LeeUNel/GameZome-Analysis/blob/141b95b4db17673c1c052d0e49135d596b9c4558/Geographic%20Location%20Map.png)
 ![image](https://github.com/LeeUNel/GameZome-Analysis/blob/23dc78c9ade764f7d11c376b96484293e7cff3dd/Geographic%20Location.png)
 ![image](https://github.com/LeeUNel/GameZome-Analysis/blob/23dc78c9ade764f7d11c376b96484293e7cff3dd/Marrketing%20Channels.png)
 ![image](https://github.com/LeeUNel/GameZome-Analysis/blob/f7535ad08987bfe35954c36547f130d708c485b2/Purchase%20Platform.png)
