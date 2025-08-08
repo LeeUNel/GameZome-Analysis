@@ -1,7 +1,8 @@
-# Project Background 
+<img width="733" height="361" alt="image" src="https://github.com/user-attachments/assets/35b8621c-0b31-4541-9834-d30ed67ab078" /># Project Background 
 GameZone, a fictional company, was founded in 2018 and specializes in selling refurbished gaming products such as Nintendo Switch consoles, PlayStations, and gaming laptops. The dataset used in this analysis covers the period from 2019 to early February 2021. The purpose of this analysis is to extract insights and provide recommendations to enhance the performance of the sales, product, and marketing teams.
 
 ## Executive Summary 
+This analysis of 21800 orders of GameZone from 2019 to Feb 2012 revealing key trends to inform strategic actions to enchance sales. Gamezone averages $2.8M annual sales, maintining a steady decline of sales to 46% on the Q1 of 2021. North America and 
 ![image](https://github.com/LeeUNel/GameZome-Analysis/blob/d7639b15ee6d930cf9eff0f3f8bb5b46eccc894e/Annual%20Sales%2C%20Order%2C%20AOV%20Trend.png)
 ## Insights Deep-Dive
 ### Sales Trend and Growth Rates
@@ -12,7 +13,7 @@ GameZone, a fictional company, was founded in 2018 and specializes in selling re
   
 ![image](https://github.com/LeeUNel/GameZome-Analysis/blob/main/Annual%20Sales,%20Order,%20AOV.png?raw=true)
 ![image](https://github.com/LeeUNel/GameZome-Analysis/blob/6d805b576cd64cea6549e37bb328e38a1ad3e25b/Most%20Sold%20Products.png?raw=true)
-
+![image](https://github.com/LeeUNel/GameZome-Analysis/blob/141b95b4db17673c1c052d0e49135d596b9c4558/Geographic%20Location%20Map.png)
  ### Sales by Geographical Location, Marketing Channel, 
 - Majority of the customers are from Northern America region specifically the US which holds 57.12% and 56.39% of the total sales and orders, respectively.
 - Direct sales accounted for 84.69% ($5.2M) of the GameZone total sales. While email and affiliate marketing  channels gather 8.96% ($611K) and 3.60% ($220K) of the total sales, respectively. 
